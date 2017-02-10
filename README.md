@@ -1,7 +1,7 @@
 # Python はじめました。
 
 基礎中の基礎のお勉強から始めています。
-http://docs.python.jp/3.5/tutorial/
+[Python 3.5](http://docs.python.jp/3.5/tutorial/)
 
 ## pythonコーディングのススメ
 
